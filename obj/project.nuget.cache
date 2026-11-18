@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EGVHAawQEMI=",
+  "dgSpecHash": "vnR5hQbnI4A=",
   "success": true,
   "projectFilePath": "C:\\Users\\QualMinds User\\Documents\\projects\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
@@ -118,7 +118,7 @@
     "C:\\Users\\QualMinds User\\.nuget\\packages\\nuget.versioning\\8.0.0\\nuget.versioning.8.0.0.nupkg.sha512",
     "C:\\Users\\QualMinds User\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.11\\sqlitepclraw.bundle_e_sqlite3.2.1.11.nupkg.sha512",
     "C:\\Users\\QualMinds User\\.nuget\\packages\\sqlitepclraw.core\\2.1.11\\sqlitepclraw.core.2.1.11.nupkg.sha512",
-    "C:\\Users\\QualMinds User\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.11\\sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\QualMinds User\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\3.53.3\\sqlitepclraw.lib.e_sqlite3.3.53.3.nupkg.sha512",
     "C:\\Users\\QualMinds User\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.11\\sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512",
     "C:\\Users\\QualMinds User\\.nuget\\packages\\system.clientmodel\\1.5.1\\system.clientmodel.1.5.1.nupkg.sha512",
     "C:\\Users\\QualMinds User\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
@@ -137,18 +137,5 @@
     "C:\\Users\\QualMinds User\\.nuget\\packages\\system.security.cryptography.pkcs\\11.0.0\\system.security.cryptography.pkcs.11.0.0.nupkg.sha512",
     "C:\\Users\\QualMinds User\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.6\\system.security.cryptography.protecteddata.9.0.6.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "message": "Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q",
-      "projectPath": "C:\\Users\\QualMinds User\\Documents\\projects\\MvcMovie\\MvcMovie.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\QualMinds User\\Documents\\projects\\MvcMovie\\MvcMovie.csproj",
-      "libraryId": "SQLitePCLRaw.lib.e_sqlite3",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    }
-  ]
+  "logs": []
 }
